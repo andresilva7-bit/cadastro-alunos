@@ -6,6 +6,6 @@ Sistema de cadastro de alunos no terminal, feito em Python.
 
 | Matrícula | Nome |
 |-----------|------|
-| 01899344| Ednaldo André|
+| 01899344| Ednaldo André da Silva Filho|
 | 01868665 | Pedro Guilherme de Andrade Silva |
 | 01938677 | Matheus Henrique de Oliveira Silva |
